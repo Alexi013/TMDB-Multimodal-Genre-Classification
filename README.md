@@ -7,7 +7,7 @@ We applied a multimodal neural network architecture combining:
 
 to perform single-label genre classification.
 
-###This project includes:
+### This project includes:
 - Data collection using the TMDB API with Bearer Token authorization
 - Exploratory Data Analysis (EDA) on genre frequency, class imbalance, and text/visual patterns
 - Multimodal model combining text and image features using Keras/TensorFlow
@@ -18,7 +18,7 @@ to perform single-label genre classification.
 
 ---
 
-###Technologies Used:
+### Technologies Used:
 - Python (Pandas, NumPy, Seaborn, Matplotlib)
 - TensorFlow / Keras
 - TMDB API
